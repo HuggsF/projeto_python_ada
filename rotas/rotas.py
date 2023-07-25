@@ -1,0 +1,2 @@
+from uteis.cadastrar_pessoa import cadastrar_pessoa
+from uteis.menu_principal import menu_principal
